@@ -1,7 +1,7 @@
-<H3>NAME : CHARUMATHI R </H3>
-<H3> REGISTER NO : 212222240021 </H3>
+<H3>NAME : Berjin Shabeck </H3>
+<H3> REGISTER NO : 212222240018 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 04-03-2024</H3>
+<H3>DATE: 14-03-2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
